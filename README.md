@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @csuttles11. Or Chad
+- 👋 Hi, I’m @csuttles11.
 - 👀 I’m interested in technology and sports
 - 🌱 I’m currently pursuing degree in computer science
 - 💞️ I’m looking to collaborate on projects
