@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing degree in computer science
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: csuttles11@gmail.com
-- ⚡ Fun fact: im from Chattanooga, TN.
+- ⚡ Fun fact: Im from Chattanooga, TN.
 
 <!---
 csuttles11/csuttles11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
