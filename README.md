@@ -1,10 +1,9 @@
 ## 👋 Hi, I'm CJ
 
-Computer Science student interested in software engineering, systems, and backend development.
+Computer Science student interested in full-stack development and software engineering.
 
-🔹 Languages: C++, Python, Java  
-🔹 Interests: Algorithms, distributed systems, backend APIs  
-🔹 Currently working on: Rideshare Simulation (C++)
+🔹 Frontend: React, HTML, CSS, JavaScript  
+🔹 Backend: C++, Python, APIs 
 
 <!---
 csuttles11/csuttles11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
